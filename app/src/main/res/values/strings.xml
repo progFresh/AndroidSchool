@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mates in touch</string>
+    <string name="error_toast">Ошибка сети</string>
+    <string name="retry_button">Повторить</string>
+</resources>
